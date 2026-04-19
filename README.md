@@ -2,7 +2,7 @@
 
 ## 1. Create a virtual environment 
 ```bash
-conda create -p mosquito python=3.11 -y
+conda create -p mosquitoApp python=3.11 -y
 ```
 
 ## 2. Activate the virtual environment
